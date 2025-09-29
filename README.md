@@ -78,6 +78,10 @@ cv2_imshow(equ)
 
 
 ```
+### Developed By 
+### HARI PRIYA M
+### 212224240047
+
 ## Output:
 ### Input Grayscale Image and Color Image
 <img width="500" height="700" alt="Screenshot 2025-09-17 020819" src="https://github.com/user-attachments/assets/9386847b-c2d4-4ad3-b652-68df9bec5ef2" />
