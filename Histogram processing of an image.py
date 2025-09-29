@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
+# Developed By
+# Name : HARI PRIYA M
+# REG NO : 212224240047
 # In[1]:Write your code to find the histogram of gray scale image and color image channels
 
 
